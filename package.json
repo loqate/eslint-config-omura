@@ -1,0 +1,14 @@
+{
+  "name": "@loqate/eslint-config-omura",
+  "version": "1.0.0",
+  "description": "Linting rules for omura js projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "author": "",
+  "license": "ISC"
+}
